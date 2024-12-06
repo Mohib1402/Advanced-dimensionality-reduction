@@ -69,4 +69,4 @@ Dimensionality reduction has been successfully demonstrated on **Databricks**, h
 ## Submission Links
 
 - **GitHub Repository**: [Link to repository](https://github.com/Mohib1402/Advanced-dimensionality-reduction)
-- **Walkthrough Video**: [Link to video](#)
+- **Walkthrough Video**: [Link to video](https://youtu.be/W2oi0KamCcM)
