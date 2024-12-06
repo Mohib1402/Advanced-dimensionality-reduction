@@ -10,9 +10,9 @@ The implementation is divided across multiple notebooks, tailored for different 
 
 Interactive notebooks are available for hands-on experimentation:
 
-1. [Image Data Notebook](#)
-2. [Tabular Data Notebook](#)
-3. [Databricks Implementation Notebook](#)
+1. [Image Data Notebook](https://github.com/Mohib1402/Advanced-dimensionality-reduction/blob/main/AdvancedDimensionalityReduction/DR1.ipynb)
+2. [Tabular Data Notebook](https://github.com/Mohib1402/Advanced-dimensionality-reduction/blob/main/AdvancedDimensionalityReduction/DR2.ipynb)
+3. [Databricks Implementation Notebook](https://github.com/Mohib1402/Advanced-dimensionality-reduction/blob/main/AdvancedDimensionalityReduction/DimensionalityReductionDatabricks.ipynb)
 
 ---
 
@@ -68,5 +68,5 @@ Dimensionality reduction has been successfully demonstrated on **Databricks**, h
 
 ## Submission Links
 
-- **GitHub Repository**: [Link to repository](#)
+- **GitHub Repository**: [Link to repository](https://github.com/Mohib1402/Advanced-dimensionality-reduction)
 - **Walkthrough Video**: [Link to video](#)
